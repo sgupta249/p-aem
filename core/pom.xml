@@ -45,7 +45,7 @@
                             artifactId2;inline=true
                         </Embed-Dependency>
                         -->
-                        <Import-Package>javax.inject;version=0.0.0,*</Import-Package>
+                        <Import-Package>javax.inject;</Import-Package>
                         <Sling-Model-Packages>
                             org.panduit.panduit.core
                         </Sling-Model-Packages>
