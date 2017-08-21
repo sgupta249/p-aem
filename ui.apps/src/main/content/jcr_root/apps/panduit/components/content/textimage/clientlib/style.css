@@ -31,3 +31,6 @@
     display: table;
     clear: both;
 }
+.header {
+	color: blue;
+}
